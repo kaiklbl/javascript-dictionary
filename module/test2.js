@@ -1,0 +1,1 @@
+export default "Hallo Welt";         // gibt eine undefinierte variable zur Hauptseite 

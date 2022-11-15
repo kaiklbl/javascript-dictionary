@@ -1,0 +1,29 @@
+1. Erstellt ein Array von Teilsummen.
+
+2. Gibt true zurück, wenn die Funktion für alle Elemente in einem Array true zurückgibt
+
+3. Prüft, ob alle Elemente des Arrays gleich sind.
+
+4. Wandelt die Elemente ohne Kommas oder doppelte Anführungszeichen in Zeichenfolgen mit durch Kommas getrennten Werten um.
+    Für CSV Datein.
+
+5.Wandelt die Elemente eines Arrays in <li>-Tags um und hängt sie an eine HTML-Liste welche die angegebene ID besitzt.
+
+6. Gibt den Durchschnitt von zwei oder mehreren numerischen Werten zurück.
+
+7.Gibt den Durchschnitt eines Arrays zurück mit Objekten
+
+8. Prüft, ob das Ende einer Seite sichtbar ist.
+
+9. bubbleSort Superheftig
+
+10. bucketSort
+
+11. Gibt die Länge eines Strings in Bytes zurück.
+
+12. Der erste Buchstabe einer Zeichenfolge groß geschrieben.
+
+13. wird der erste Buchstabe jedes Wortes in einer bestimmten Zeichenfolge groß geschrieben.
+
+14. Wandelt einen Nicht-Array-Wert in ein Array um.
+
