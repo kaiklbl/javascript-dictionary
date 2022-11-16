@@ -1,4 +1,5 @@
-// ----------------- Variablen----------------
+
+// ---------------------------------------- Variablen-------------------------------------------
 
 // variable mit let hat einen Block Scope , kann wieder überschrieben werden
 let person = 'Kevin';           // String
@@ -32,25 +33,9 @@ let text2 = 'Peter';
 let fullText = text1 + text2;   // zwei Strings mit + werden zusammengehängt, auch bei string (Zahlen)
 
 
-console.log(typeof(text1));     // gibt den Datentyp aus
 
 
-//---------RechenOperatoren------------
-// +    = plus
-// -    = minus
-// *    = mal
-// /    = durch
-// %    = modulus (von division nur der Rest)
-// **   = hoch
-// ++   = + 1
-// --   = - 1
-// +=   = (x = x + y) = x += y
-// -=   = gleiche wie oben 
-// /=   = gleiche wie oben
-// *=   = gleiche wie oben
-
-// ------------------------------------------------------------------------
-// Objekte in Javascript (Asiziative Arrays)
+// Objekte in Javascript (Asoziative Arrays)
 
 // in Objekte kann man alles rein muss mit key:value pairs sein
 var pinguin = {

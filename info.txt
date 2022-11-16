@@ -1,0 +1,33 @@
+
+
+//---------RechenOperatoren------------
+// +    = plus
+// -    = minus
+// *    = mal
+// /    = durch
+// %    = modulus (von division nur der Rest)
+// **   = hoch
+// ++   = + 1
+// --   = - 1
+// +=   = (x = x + y) = x += y
+// -=   = gleiche wie oben 
+// /=   = gleiche wie oben
+// *=   = gleiche wie oben
+
+// ------------------------------------------------------------------------
+
+
+// -------------Datentypen----------------------------------------------
+
+// -------Primitive--------
+
+// String
+// Number
+// BigInt
+// Boolean
+// Null
+// undefined
+// Object
+// Symbol
+
+// -------------------------

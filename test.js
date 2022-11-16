@@ -1,5 +1,7 @@
-let hans = 'hans war da';
+arr = [1,2,3,4,3,43,2];
 
-let arr = Array.from('irgendwas');
-console.log(arr);
+const sum = (total,x) => total + x;
 
+arr2 = arr.reduce(sum);
+
+console.log(arr2);
