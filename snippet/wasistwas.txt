@@ -1,29 +1,246 @@
+
+------------------------------------Mathe------------------------------------
+
 1. Erstellt ein Array von Teilsummen.
+
+6. Gibt den Durchschnitt von zwei oder mehreren numerischen Werten zurück.
+
+7.Gibt den Durchschnitt eines Arrays zurück mit Objekten
+
+11. Gibt die Länge eines Strings in Bytes zurück.
+
+58. Mit diesem Snippet kann überprüft werden, ob ein bestimmter String ein Anagramm von einem anderen String ist.
+
+71. Gibt die n maximalen Elemente aus dem bereitgestellten Array zurück.
+
+74. Gibt die n minimalen Elemente aus dem bereitgestellten Array zurück.
+
+89. Dieses Snippet kann verwendet werden, um eine Zahl auf eine bestimmte Anzahl von Stellen zu runden.
+
+96. Berechnet die Summe von zwei oder mehr Zahlen, auch welche die sich in einem Array befinden.
+
+97. Berechnet die Summe eines Arrays, nachdem jedes Element mithilfe der bereitgestellten Funktion einem Wert zugeordnet wurde.
+
+98. Reduziert ein gegebenes Array in einen Wert-Hash (Keyed Data Store).
+
+
+
+--------------------------------Überprüfung----------------------------------
 
 2. Gibt true zurück, wenn die Funktion für alle Elemente in einem Array true zurückgibt
 
 3. Prüft, ob alle Elemente des Arrays gleich sind.
+
+8. Prüft, ob das Ende einer Seite sichtbar ist.
+
+16. Überprüft, ob die angegebene Zeichenfolge Leerzeichen enthält.
+
+29. Dieses Snippet prüft, ob das übergeordnete Element das untergeordnete Element enthält.
+
+40. Dieses Snippet kann verwendet werden, um den Typ eines Werts zu ermittlen.
+
+42. Dieses Snippet prüft, ob ein Element eine bestimmte Klasse hat.
+
+43. Überprüft, ob in einem flachen Array doppelte Werte vorhanden sind.
+
+47. Dieses Snippet kann verwendet werden, um alle Indexes eines Werts in einem Array zu erhalten, und ein leeres Array zurückgibt, falls dieser Wert nicht darin enthalten ist.
+
+53. Dieses Snippet kann verwendet werden, um zu überprüfen, ob ein Wert von einem bestimmten Typ ist.
+
+54. Überprüft, ob die angegebene Zeichenfolge eine absolute URL ist.
+
+56. Überprüft, ob eine Zeichenfolge nur Buchstaben enthält.
+
+57. Überprüft, ob eine Zeichenfolge nur alphanumerische Zeichen enthält.
+
+63. Prüft ob die angegebene Zeichenkette eine Email ist.
+
+64. Dieses Snippet kann verwendet werden, um festzustellen, ob eine Zeichenfolge klein geschrieben ist.
+
+66. Prüft, ob ein numerisches Array sortiert ist.
+
+67. Dieses Snippet kann verwendet werden, um zu überprüfen, ob ein String in Großbuchstaben geschrieben ist.
+
+68. Mit diesem Snippet kann überprüft werden, ob eine Zeichenfolge ein gültiges JSON ist.
+
+
+
+
+
+-------------------------------------Umwandeln-------------------------------
 
 4. Wandelt die Elemente ohne Kommas oder doppelte Anführungszeichen in Zeichenfolgen mit durch Kommas getrennten Werten um.
     Für CSV Datein.
 
 5.Wandelt die Elemente eines Arrays in <li>-Tags um und hängt sie an eine HTML-Liste welche die angegebene ID besitzt.
 
-6. Gibt den Durchschnitt von zwei oder mehreren numerischen Werten zurück.
+14. Wandelt einen Nicht-Array-Wert in ein Array um.
 
-7.Gibt den Durchschnitt eines Arrays zurück mit Objekten
+21. Dieses Snippet verflacht ein Array rekursiv
 
-8. Prüft, ob das Ende einer Seite sichtbar ist.
+24. Dieses Snippet erhält eine Zahl als Eingabe und gibt ein Array seiner Ziffern zurück.
+
+34. Erstellt aus allen Werten eines Formulars ein Objekt mit key value pairs
+
+48. Erstellt ein Objekt aus einem Array, verwendet den angegebenen Schlüssel und schließt ihn aus jedem Wert aus.
+
+69. Verbindet alle Elemente eines Arrays zu einem String und gibt diesen String zurück. Verwendet ein Trennzeichen und ein Endtrennzeichen.
+
+75. Dieses Snippet kann verwendet werden, um eine Zeichenfolge auf beiden Seiten mit einem angegebenen Zeichen aufzufüllen, wenn sie kürzer als die angegebene Länge ist.
+
+
+
+
+
+---------------------------------SortierAlgorythmen--------------------------
+
 
 9. bubbleSort Superheftig
 
 10. bucketSort
 
-11. Gibt die Länge eines Strings in Bytes zurück.
+72. Sortiert ein Array von Zahlen mit dem Mergesort-Algorithmus.
+
+77. Sortiert ein Array von Zahlen mit dem Quicksort-Algorithmus.
+
+91. Sortiert ein Array von Zahlen mithilfe des Selectionsort-Algorithmus.
+
+
+---------------------------------Zeichen verändern------------------------------
 
 12. Der erste Buchstabe einer Zeichenfolge groß geschrieben.
 
 13. wird der erste Buchstabe jedes Wortes in einer bestimmten Zeichenfolge groß geschrieben.
 
-14. Wandelt einen Nicht-Array-Wert in ein Array um.
+20. Dieses Snippet wandelt den ersten Buchstaben einer Zeichenfolge in einen Kleinbuchstaben um.
 
+88. Dieses Snippet kann verwendet werden, um eine Zeichenfolge umzukehren.
+
+
+
+---------------------------------Entfernen-------------------------------------
+
+15. Entfernt falsche Werte aus einem Array.
+
+25. Dieses Snippet gibt ein neues Array zurück, bei dem n Elemente von der linken Seite entfernt wurden.
+
+26. Dieses Snippet gibt ein neues Array zurück, bei dem n Elemente von der rechten Seite entfernt wurden.
+
+27. Dieses Snippet entfernt Elemente von der rechten Seite eines Arrays, bis die übergebene Funktion true zurückgibt.
+
+28. Dieses Snippet entfernt Elemente aus einem Array, wenn die übergebene Funktion true zurückgibt.
+
+31. Dieses Snippet entfernt doppelte Werte in einem Array.
+
+45. Mit diesem Snippet können alle angegebenen Elemente ausgeblendet werden.
+
+100. Filtert die Elemente eines Arrays heraus, die einen der angegebenen Werte aufweisen.
+
+
+-------------------------------Suchen Zählen----------------------------------
+
+17. Dieses Snippet zählt die Vorkommen eines Werts in einem Array.
+
+22. Dieses Snippet findet den Unterschied zwischen zwei Arrays. Es werden die Werte des ersten Arrays zurückgegeben welche im Vergleich zum zweiten Array unterschiedlich sind
+
+23. Dieses Snippet gibt die Differenz zwischen zwei Arrays zurück, nachdem eine bestimmte Funktion auf jedes Element beider Listen angewendet wurde.
+
+30. Gibt jedes n-te Element in einem Array zurück.
+
+32. Dieses Snippet gibt den ersten Schlüssel zurück, welcher die übergebene Funktion erfüllt.
+
+99. Findet alle eindeutigen Werte in einem Array.
+
+
+
+---------------------------------Datum---------------------------------------------
+
+19. Dieses Snippet ruft den Tag des Jahres von einem Date-Objekt ab.
+
+37. Dieses Snippet kann verwendet werden, um die Differenz in Tagen zwischen zwei Datumsangaben zu ermitteln.
+
+39. Dieses Snippet kann verwendet werden, um die Uhrzeit von einem Dateobject als String zu erhalten.
+
+55. Mit diesem Snippet kann überprüft werden, ob ein Datum nach einem anderen Datum liegt.
+
+59. Mit diesem Snippet kann überprüft werden, ob ein Datum vor einem anderen Datum liegt.
+
+62. Überprüft, ob aus den angegebenen Werten ein gültiges Datumsobjekt erstellt werden kann.
+
+65. Mit diesem Snippet kann überprüft werden, ob zwei Datumsangaben gleich sind.
+
+70. Dieses Snippet kann verwendet werden, um das neueste Datum zu erhalten.
+
+73. Sucht kleinstes Datum in Array
+
+
+
+------------------------------Random Methoden---------------------------------------------
+
+78.   Erzeugt eine zufällige Zeichenfolge mit der angegebenen Länge.
+
+79.   Erzeugt zufällig true oder false.
+
+80.   Dieses Snippet kann verwendet werden, um einen zufälligen hexadezimalen Farbcode zu generieren.
+
+81.   Dieses Snippet kann verwendet werden, um ein Array mit n zufälligen ganzen Zahlen in einem angegebenen Bereich zu generieren.
+
+82.   Dieses Snippet kann verwendet werden, um eine zufällige ganze Zahl in einem bestimmten Bereich zu generieren.
+
+83.   Dieses Snippet kann verwendet werden, um ein zufälliges Item aus einem Array zurückzugeben.
+
+84.   Dieses Snippet kann verwendet werden, um eine Zufallszahl aus einem Array zu erhalten.
+
+85.   Dieses Snippet kann verwendet werden, um mehrere Zufallszahlen aus einem Array zu erhalten.
+
+86.   Dieses Snippet kann verwendet werden, um eine Zufallszahl in einem bestimmten Bereich zurückzugeben.
+
+95.   Verändert die Reihenfolge der Werte eines Arrays in zufälliger Reihenfolge und gibt ein neues Array zurück.
+
+
+
+--------------------------------------Browser--------------------------------------
+
+49.   Dieses Snippet gibt die aktuelle innere Höhe des Browsers zurück.
+
+50.   Dieses Snippet gibt die aktuelle innere Breite des Browsers zurück.
+
+60.   Anhand dieses Snippets kann festgestellt werden, ob es sich bei der aktuellen Laufzeitumgebung um einen Browser handelt. Dies ist hilfreich, um Fehler beim ausführen von Frontend-Modulen auf dem Server (Node.js) zu vermeiden.
+
+61.   Dieses Snippet kann verwendet werden, um festzustellen, ob der Browser-Tab fokussiert ist.
+
+76.  Analysiert eine HTTP-Cookie-Header-Zeichenfolge und gibt ein Objekt mit allen Key-Value-Pairs zurück.
+
+87.   Dieses Snippet kann verwendet werden, um eine Weiterleitung zu einer angegebenen URL durchzuführen.
+
+92.   Serialisiert ein Wertepaar in eine HTTP-Cookie-Header-Zeichenfolge.
+
+93.   Codiert alle Werte eines Formulars zu eine URL-codierte Zeichenkette, welche als GET Parameter dienen können.
+
+
+
+---------------------------------Sonstige-------------------------------------
+
+18. Dieses Snippet gibt die aktuelle URL zurück.
+
+33. Dieses Snippet führt für jedes Element eines Arrays eine Funktion aus, beginnend mit dem letzten Element des Arrays.
+
+35.   Dieses Snippet durchläuft jede Eigenschaft eines Objektes und führt die übergebene Funktion aus.
+
+36.   Dieses Snippet kann verwendet werden, um die URL ohne GET Parameter zu ermitteln.
+
+38.  Dieses Snippet kann verwendet werden, um den Wert einer CSS-Regel für ein bestimmtes Element abzurufen.
+
+41.   Dieses Snippet kann verwendet werden, um alle GET Parameter einer URL als Objekt zurückzugeben. 
+
+44.   Erstellt einen Hash für einen Wert mit dem SHA-256-Algorithmus. Gibt ein Promise zurück.
+
+46.   Dieses Snippet kann verwendet werden, um in einer bestimmten Domain von HTTP auf HTTPS umzuleiten.
+
+51.   Dieses Snippet kann verwendet werden, um einen HTML-String nach dem Ende eines bestimmten Elements einzufügen.
+
+52.   Dieses Snippet kann verwendet werden, um einen HTML-String vor einem bestimmten Element einzufügen.
+
+90.   Dieses Snippet kann verwendet werden, um eine Reihe von Promises in Serie auszuführen.
+
+94.   Legt den Wert einer CSS-Eigenschaft für das angegebene HTML-Element fest.
