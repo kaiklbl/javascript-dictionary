@@ -7,6 +7,9 @@ let person = 'Kevin';           // String
 // variablen mit const können in nachhinein nicht mehr verändert werden, hat einen Block Scope
 const geboren =  1999;          // Number
 
+// Ist der Datentyp für große Zahlen
+let bigInt = 123456789n;
+
 // variable var war einmal haben einen function scope
 var alter = false;              // Bool
 

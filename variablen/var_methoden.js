@@ -1,5 +1,5 @@
 
-typeof(Var);     // gibt den Datentyp aus
+typeof    // gibt den Datentyp aus
 
 
 

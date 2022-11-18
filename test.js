@@ -1,7 +1,7 @@
-arr = [1,2,3,4,3,43,2];
+let a = "String";
+let num = 23;
+let bigInt = 8398392n;
 
-const sum = (total,x) => total + x;
+let b = typeof bigInt;
 
-arr2 = arr.reduce(sum);
-
-console.log(arr2);
+console.log(b);
